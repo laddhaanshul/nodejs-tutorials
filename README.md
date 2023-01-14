@@ -1,1 +1,1 @@
-# nodejs-tutorials
+# nodejs lectures
